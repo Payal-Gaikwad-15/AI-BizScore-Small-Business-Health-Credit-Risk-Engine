@@ -2,7 +2,7 @@
 
 > 💡 **Know your business health. Understand your risk. See how you can improve it.**
 
-🚀 **Live Demo:** [🔗 Try AI BizScore on Streamlit](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)
+🚀 **Live Demo:** [🔗 Try AI BizScore on Streamlit]((https://ai-bizscore-small-business-health-credit-risk-engine-bna3gzuk5.streamlit.app/))
 
 ---
 
@@ -180,7 +180,7 @@ The application is built using **Streamlit** and deployed as an interactive web 
 
 Users can enter business information directly into the dashboard and receive the analysis in real time.
 
-🚀 **Live Application:** [🔗 Open AI BizScore](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)
+🚀 **Live Application:** [🔗 Open AI BizScore]((https://ai-bizscore-small-business-health-credit-risk-engine-bna3gzuk5.streamlit.app/))
 
 ---
 
